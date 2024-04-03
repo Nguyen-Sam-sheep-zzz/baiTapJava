@@ -32,7 +32,5 @@ public class Bai7 {
         else {
             System.out.println("Lỗi");
         }
-
-
     }
 }
