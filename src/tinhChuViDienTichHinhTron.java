@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Test2 {
+public class tinhChuViDienTichHinhTron {
     public static void main(String[] args) {
         Scanner ip = new Scanner(System.in);
         System.out.println("Nhập bán kính ( r )");

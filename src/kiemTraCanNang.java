@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bai5 {
+public class kiemTraCanNang {
     public static void main(String[] args) {
         Scanner ip = new Scanner(System.in);
         double height, weight, bmi;

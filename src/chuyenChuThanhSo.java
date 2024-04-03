@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CCTS {
+public class chuyenChuThanhSo {
     private static final String[] muoisodau = {
             "không", "một", "hai", "ba", "bốn", "năm", "sáu", "bảy", "tám ", "chín"
     };

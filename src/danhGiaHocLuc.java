@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bai7 {
+public class danhGiaHocLuc {
     public static void main(String[] args) {
         Scanner ip = new Scanner(System.in);
         System.out.println("Điểm của bạn giới hạn với thang điểm 10 ");
